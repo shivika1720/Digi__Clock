@@ -1,2 +1,2 @@
 # Digi__Clock
-Digital Clock
+# Digital Clock Program
